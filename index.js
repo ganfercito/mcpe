@@ -1,7 +1,7 @@
 //---------------------------------------------------------------------
-// Glitch 24/7  /// by Sn0W_  
-// https://www.youtube.com/channel/UC2goETdAh7nWcyne89NWyaw
-// Required to let uptime robot waving our bot.
+// Glitch 24/7  /// by xJinMori  
+// https://www.youtube.com/c/xJinMori
+// Recuerda usar un uptime robot.
 //---------------------------------------------------------------------
 
 const express = require("express");
@@ -27,7 +27,6 @@ const bot = mineflayer.createBot({
   host: "IP", //Coloca entre las comillas tu ip
   port: 25565, //puerto del servidor
   username: "NOMBRE", //nombre del bot
-  // password: "CONTRASEÑA", //only for premium
   version: false //version of the server (false = auto detect)
 });
 
