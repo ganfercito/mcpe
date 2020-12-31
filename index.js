@@ -24,9 +24,9 @@ const mineflayer = require("mineflayer");
 
 //the config
 const bot = mineflayer.createBot({
-  host: "IP", //Coloca entre las comillas tu ip
+  host: "xJinMorimnu6.aternos.me", //Coloca entre las comillas tu ip
   port: 25565, //puerto del servidor
-  username: "NOMBRE", //nombre del bot
+  username: "BOT", //nombre del bot
   version: false //version of the server (false = auto detect)
 });
 
