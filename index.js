@@ -1,7 +1,6 @@
 //---------------------------------------------------------------------
 // Glitch 24/7  /// by xJinMori  
 // https://www.youtube.com/c/xJinMori
-// Keep it on! Discord: JinMori#0001
 //---------------------------------------------------------------------
 
 const express = require("express");
@@ -24,9 +23,9 @@ const mineflayer = require("mineflayer");
 
 //the config
 const bot = mineflayer.createBot({
-  host: "IP", //Coloca entre las comillas tu ip
+  host: "IP", //Coloca entre las comillas, tu ip
   port: 25565, //puerto del servidor
-  username: "BOT", //nombre del bot
+  username: "BOT", //nombre del bot (CAMBIAR)
   version: false //version of the server (false = auto detect)
 });
 
