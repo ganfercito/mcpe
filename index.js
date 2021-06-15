@@ -23,9 +23,9 @@ const mineflayer = require("mineflayer");
 
 //the config
 const bot = mineflayer.createBot({
-  host: "IP", //Coloca entre las comillas, tu ip
+  host: "xjinmorionyoutube.ploudos.me", //Coloca entre las comillas, tu ip
   port: 25565, //puerto del servidor
-  username: "Bot", //nombre del bot (CAMBIAR)
+  username: "Bo55xd", //nombre del bot (CAMBIAR)
   version: false //version of the server (false = auto detect)
 });
 
