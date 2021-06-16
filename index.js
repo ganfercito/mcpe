@@ -1,6 +1,6 @@
 //---------------------------------------------------------------------
 // Glitch 24/7  /// by xJinMori  
-// https://www.youtube.com/c/xJinMori
+// youtube.com/c/JinMoriYT/
 //---------------------------------------------------------------------
 
 const express = require("express");
@@ -23,9 +23,9 @@ const mineflayer = require("mineflayer");
 
 //the config
 const bot = mineflayer.createBot({
-  host: "xjinmorionyoutube.ploudos.me", //Coloca entre las comillas, tu ip
+  host: "ip.aternos", //Coloca entre las comillas, tu ip
   port: 25565, //puerto del servidor
-  username: "Bo55xd", //nombre del bot (CAMBIAR)
+  username: "B123", //nombre del bot (CAMBIAR)
   version: false //version of the server (false = auto detect)
 });
 
