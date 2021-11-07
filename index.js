@@ -70,7 +70,7 @@ bot.on("move", function() {
     bot.setControlState("left", true); //continuously walks lefz
     setTimeout(() => {
       //sets a delay
-      bot.setControlState("left", false); //stops walking left
+      bot.setControlState("left", false); //setControlState("left", false); //stops walking left
     }, 2000); //delay time
   }, 500); //delay time
 });
